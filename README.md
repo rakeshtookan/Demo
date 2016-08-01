@@ -33,3 +33,16 @@ Allow followings permissions.
 It would be look like this.
 
 ![Permissions] (https://github.com/rakeshtookan/Demo/blob/master/Screen%20Shot%202016-08-01%20at%206.36.58%20PM.png)
+
+### Step 5: Location Always
+
+* Select LocationTrackerExample in Project Navigator
+* Select Target > LocationTrackerExample
+* Select info Tab
+* Add new keys: 
+  * NSLocationWhenInUseUsageDescription
+  * NSLocationAlwaysUsageDescription
+
+It would be look like this:
+
+  
