@@ -1,3 +1,3 @@
-## LocationTracking Demo
+# LocationTracking Demo
 
-# STEP
+## STEP
