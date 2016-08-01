@@ -15,5 +15,5 @@ You can use it for location tracking.
 * [MSWeakTimer]()
 
 ### Step 3: Drag and Drop above frameworks into your project.
-![Xcode Prefs](http://www.perfect.org/docs/assets/xcode_prefs.png)
+![Drag](https://github.com/rakeshtookan/Demo/blob/master/Screen%20Shot%202016-08-01%20at%205.51.09%20PM.png)
 
