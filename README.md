@@ -45,4 +45,5 @@ It would be look like this.
 
 It would be look like this:
 
+![Location] (https://github.com/rakeshtookan/Demo/blob/master/Screen%20Shot%202016-08-01%20at%207.27.24%20PM.png)
   
