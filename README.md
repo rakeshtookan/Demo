@@ -31,3 +31,5 @@ Allow followings permissions.
 * Check Background fetch
 
 It would be look like this.
+
+![Permissions] (https://github.com/rakeshtookan/Demo/blob/master/Screen%20Shot%202016-08-01%20at%206.36.58%20PM.png)
