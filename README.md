@@ -16,7 +16,18 @@ You can use it for location tracking.
 
 ### Step 3: Add Framworks
 
-Drag and Drop above frameworks into your project. It should look like this.
+Drag and Drop above frameworks into your project. It would be look like this.
 
 ![Drag](https://github.com/rakeshtookan/Demo/blob/master/Screen%20Shot%202016-08-01%20at%205.51.09%20PM.png)
 
+### Step 4: Permissions
+
+Allow followings permissions.
+* Select LocationTrackerExample in Project Navigator
+* Select Target > LocationTrackerExample
+* Select Capabilities Tab
+* Switch ON Background Modes
+* Check Location updates
+* Check Background fetch
+
+It would be look like this.
